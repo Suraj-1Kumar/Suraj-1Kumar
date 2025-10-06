@@ -1,13 +1,13 @@
 <h1 align="center">
-  Hi there, I'm Suraj Kumar 👋
+Hi 👋, I'm Suraj Kumar
 </h1>
 
 <h3 align="center">
-  Bridging Data Science with Enterprise Software Engineering
+Bridging Data Science with Enterprise Software Engineering
 </h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/3W6qj1S/programmer-illustration.png" alt="Developer Illustration" width="450"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer Illustration" width="300"/>
 </p>
 
 <p align="center">
@@ -18,11 +18,22 @@
 
 <p align="center">
   🎓 I'm a passionate and results-driven final-year Computer Science student at the <b>Noida Institute of Engineering & Technology</b>.
-  My focus is on building robust applications at the intersection of AI and scalable backend systems. I am actively seeking 
+  My focus is on building robust applications at the intersection of AI and scalable backend systems. I am actively seeking
   full-time Software Engineering roles starting in 2026.
   <br />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" alt="Open to Work"/>
 </p>
+
+---
+### About Me
+
+- 🔭 I'm currently **open to new Job opportunities** as a Software Engineer.
+- 🌱 I'm currently learning **Java Fullstack, DevOps principles and tools** to streamline development workflows.
+- 👯 All of my public projects are available on my [GitHub Profile](https://github.com/Suraj-1Kumar).
+- 💬 Ask me about **Java, Python, AI/ML, Spring Boot, or DevOps concepts**.
+- 📫 How to reach me: <a href="mailto:surajkumarofficially@gmail.com">surajkumarofficially@gmail.com</a>
+- 📄 Know more about my experiences: [My Resume/Portfolio]([YOUR_PORTFOLIO_OR_RESUME_LINK])
+- ⚡ Fun fact: 😉
 
 ---
 
@@ -56,12 +67,14 @@
 <p align="center">
   <strong>AI / ML:</strong><br>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" alt="AI/ML Skills"/>
-  <br><br>
+</p>
+<p align="center">
   <strong>Java Full Stack:</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" alt="Java Full Stack Skills"/>
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java Full Stack Skills"/>
+</p>
+<p align="center">
   <strong>Tools & Platforms:</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman,mysql,postgres" alt="Tools & Platforms"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman,mysql,vscode" alt="Tools & Platforms"/>
 </p>
 
 ---
