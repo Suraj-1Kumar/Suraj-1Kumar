@@ -1,97 +1,187 @@
-<h1 align="center">
-Hi 👋, I'm Suraj Kumar
-</h1>
+<div align="center">
 
-<h3 align="center">
-Bridging Data Science with Enterprise Software Engineering
-</h3>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Data%20Scientist&descAlignY=52&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer Illustration" width="300"/>
-</p>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+AI+Systems+that+Ship+to+Production;RAG+Pipelines+%7C+LLMs+%7C+FastAPI+%7C+Docker;Churn+Prediction+%E2%86%92+Live+on+Render+%F0%9F%9A%80;Final+Year+CSE+%40+NIET+%7C+CGPA+8.30;Open+to+Work+%F0%9F%9F%A2+2026+Grad" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/surajkumarofficially/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:surajkumarofficially@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[YOUR_PORTFOLIO_OR_RESUME_LINK]"><img src="https://img.shields.io/badge/Portfolio-255E63.svg?style=for-the-badge&logo=react&logoColor=white" /></a>
-</p>
+<!-- BADGES -->
+<br/>
+<a href="https://www.linkedin.com/in/surajkumarofficially/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:surajkumarofficially@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://customer-churn-predictor-mymg.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+<a href="[https://leetcode.com/YOUR-LEETCODE-ID](https://leetcode.com/u/Suraj_Kumar9661/)" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-<p align="center">
-  🎓 I'm a passionate and results-driven final-year Computer Science student at the <b>Noida Institute of Engineering & Technology</b>.
-  My focus is on building robust applications at the intersection of AI and scalable backend systems. I am actively seeking
-  full-time Software Engineering roles starting in 2026.
-  <br />
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" alt="Open to Work"/>
-</p>
+<br/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Graduation-2026-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.30%20%2F%2010-purple?style=for-the-badge"/>
 
----
-### About Me
-
-- 🔭 I'm currently **open to new Job opportunities** as a Software Engineer.
-- 🌱 I'm currently learning **Java Fullstack, DevOps principles and tools** to streamline development workflows.
-- 👯 All of my public projects are available on my [GitHub Profile](https://github.com/Suraj-1Kumar).
-- 💬 Ask me about **Java, Python, AI/ML, Spring Boot, or DevOps concepts**.
-- 📫 How to reach me: <a href="mailto:surajkumarofficially@gmail.com">surajkumarofficially@gmail.com</a>
-- 📄 Know more about my experiences: [My Resume/Portfolio]([YOUR_PORTFOLIO_OR_RESUME_LINK])
-- ⚡ Fun fact: 😉
+</div>
 
 ---
 
-### What I Do
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">🤖 AI & Machine Learning</h3>
-      <ul>
-        <li><strong>Model Development:</strong> Building and training models with Python, TensorFlow, and Scikit-learn.</li>
-        <li><strong>MLOps & Deployment:</strong> Passionate about the full lifecycle of a model, from development to production deployment using tools like Docker.</li>
-        <li><strong>Data Science:</strong> Analyzing complex datasets to extract actionable insights and drive decisions.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">☕ Java Full Stack Development</h3>
-      <ul>
-        <li><strong>Backend Systems:</strong> Creating robust, scalable, and secure APIs using Java, Spring Boot, and Hibernate.</li>
-        <li><strong>Enterprise Applications:</strong> Building high-performance, enterprise-grade software ready for real-world challenges.</li>
-        <li><strong>Full Stack Integration:</strong> Connecting ML services with powerful Java backends to create seamless, intelligent applications.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```python
+suraj = {
+    "name"       : "Suraj Kumar",
+    "college"    : "NIET, Greater Noida | B.Tech CSE (Data Science)",
+    "graduation" : 2026,
+    "cgpa"       : 8.30,
+    "focus"      : ["AI Engineering", "GenAI / LLMs", "Backend Development"],
+    "building"   : "End-to-end ML systems that actually ship to production",
+    "currently"  : "Seeking full-time roles in AI/ML or Backend Engineering",
+    "fun_fact"   : "My ML models are deployed — not just in notebooks 🚀"
+}
+```
+
+- 🔭 **Currently working on:** Agentic AI systems using LangChain + Gemini API
+- 🌱 **Learning:** LangGraph, AWS fundamentals, advanced MLOps
+- 💡 **Ask me about:** RAG pipelines, FastAPI deployment, ML model explainability
+- 📫 **Reach me:** surajkumarofficially@gmail.com
+- ⚡ **Fact:** All my projects are live with public URLs — not just GitHub repos
 
 ---
 
-### 💻 Languages & Technologies
+## 🚀 Featured Projects
 
-<p align="center">
-  <strong>AI / ML:</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" alt="AI/ML Skills"/>
-</p>
-<p align="center">
-  <strong>Java Full Stack:</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" alt="Java Full Stack Skills"/>
-</p>
-<p align="center">
-  <strong>Tools & Platforms:</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,postman,mysql,vscode" alt="Tools & Platforms"/>
-</p>
+<div align="center">
+
+| Project | Tech | Live | What it does |
+|---------|------|------|--------------|
+| 🧠 **LegalLens** | RAG · LLM · Spring Boot · MySQL | [GitHub](https://github.com/Suraj-1Kumar/Legallens-Backend) | AI-powered legal document search using RAG pipeline — 500+ chunks, 82% relevance, <1.5s latency |
+| 📊 **Customer Churn Predictor** | Python · LightGBM · FastAPI · Docker | [**Live Demo 🟢**](https://customer-churn-predictor-mymg.onrender.com/) | End-to-end ML pipeline → deployed REST API · AUC 0.843 · 14 MLflow experiments |
+| 👁️ **Object Detection** | YOLOv3 · TensorFlow · OpenCV | [GitHub](https://github.com/Suraj-1Kumar/object-detection) | Real-time multi-object detection · 85% accuracy · 20+ FPS · 80 COCO classes |
+
+</div>
 
 ---
 
-### 🌱 My Future Focus
+## 🛠️ Tech Stack
 
-I am always learning and currently deepening my skills in these areas:
-- 🚀 Advanced **MLOps pipelines** for automated model training and deployment.
-- 🏗️ Building **microservices** with **Spring Boot** to serve ML models as scalable APIs.
-- 🧠 Deepening my understanding of **System Design** for high-availability applications.
+<div align="center">
+
+### 🤖 AI / ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+### ☕ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=dark" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj-1Kumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Suraj Kumar's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-1Kumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Suraj Kumar's Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Suraj-1Kumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-1Kumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-1Kumar&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer |
+|------------------|-----------|
+| Data Analytics Job Simulation | Deloitte |
+| Python for Data Science & AI | Coursera |
+| Data Scientist | MyAnatomy Integration |
+| Introduction to Cybersecurity | Cisco NetAcad |
+| High Recommendation Delegate | NIET — All India Debate |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+```
+🔗 LangGraph          →  Multi-agent AI orchestration
+☁️  AWS (CCP)         →  Cloud deployment & services
+🧪 Advanced MLOps     →  CI/CD for ML pipelines
+🏗️  Microservices     →  Spring Boot + Docker + API Gateway
+```
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj-1Kumar&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=Suraj-1Kumar&label=Profile%20Views&color=6E40C9&style=flat-square"/>
+
+**💬 Let's connect and build something meaningful together!**
+
+</div>
+README_EOF
+echo "Done"
